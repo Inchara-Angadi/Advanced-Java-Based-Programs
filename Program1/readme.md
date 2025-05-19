@@ -40,7 +40,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob
 
 ReverseLinkedList : Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())
-Solution -> ()
+Solution -> (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob/main/Program1/Screenshot%202025-05-20%20001120.png)
 
 
 InsertAtEndExample : Write a Java program to insert the specified element at the end of a linked list.( using
