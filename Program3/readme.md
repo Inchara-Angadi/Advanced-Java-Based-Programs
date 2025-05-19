@@ -49,7 +49,7 @@ Solution ->  ()
 
 RandomStringGenerator : Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()
-Solution ->  ()
+Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program3/Screenshot%202025-05-20%20012138.png)
 
 
 WordCounter : Write a Java Program for Counting the number of words in a string using user defined function
