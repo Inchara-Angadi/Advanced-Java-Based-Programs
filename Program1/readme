@@ -14,45 +14,45 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob
 
 ColorRemoveDemo : Write a java program for getting different colors through ArrayList interface and remove the
 2nd element and color "Blue" from the ArrayList
-Solution -> 
+Solution -> (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob/main/Program1/Screenshot%202025-05-19%20234953.png)
 
 
 ColorSort : Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)
-Solution -> 
+Solution -> ()
 
 
 ColorListDemo : Write a java program for getting different colors through ArrayList interface and extract the
 elements 1st and 2nd from the ArrayList object by using SubList()
-Solution -> 
+Solution -> ()
 
 
 ColorListManager : Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index
-Solution -> 
+Solution -> ()
 
 
 LinkedListIteratorExample : Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-Solution -> 
+Solution -> ()
 
 
 
 ReverseLinkedList : Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())
-Solution -> 
+Solution -> ()
 
 
 InsertAtEndExample : Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))
-Solution -> 
+Solution -> ()
 
 
 DisplayElementsWithPosition : Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )
-Solution -> 
+Solution -> ()
 
 
 SwapElementsInLinkedList : Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
-
+Solution -> ()
