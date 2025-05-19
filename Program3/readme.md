@@ -9,12 +9,12 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 NullOrEmptyCheck : Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().
-Solution ->  (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob/main/Program3/Screenshot%202025-05-20%20005229.png)
+Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program3/Screenshot%202025-05-20%20005229.png)
 
 
 SubstringCounter : Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()
-Solution ->  (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob/main/Program3/Screenshot%202025-05-20%20005335.png)
+Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program3/Screenshot%202025-05-20%20005335.png)
 
 
 StringReverse : Write a Java Program for Reversing the characters in a string using user defined function
