@@ -44,7 +44,7 @@ Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blo
 
 NumericChecker : Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()
-Solution ->  ()
+Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program3/Screenshot%202025-05-20%20012038.png)
 
 
 RandomStringGenerator : Write a Java Program for Creating a random string of a specified length using user defined
