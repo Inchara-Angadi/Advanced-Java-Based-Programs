@@ -54,6 +54,6 @@ Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blo
 
 WordCounter : Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
-Solution ->  ()
+Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program3/Screenshot%202025-05-20%20012247.png)
 
 
