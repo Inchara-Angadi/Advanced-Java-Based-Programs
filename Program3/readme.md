@@ -4,7 +4,7 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()
-Solution -> (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob/main/Program3/Screenshot%202025-05-20%20003013.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program3/Screenshot%202025-05-20%20003013.png)
 
 
 NullOrEmptyCheck : Write a Java Program for Checking if a given string is null or contains only whitespace using user
