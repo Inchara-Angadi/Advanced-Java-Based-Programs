@@ -29,7 +29,7 @@ Solution ->  ()
 
 WhitespaceRemover :Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()
-Solution ->  ()
+Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program3/Screenshot%202025-05-20%20011036.png)
 
 
 Capitalizewords : Write a Java Program for Capitalizing the first letter of each word. using user defined function
