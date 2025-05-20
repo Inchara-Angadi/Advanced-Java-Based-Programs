@@ -6,7 +6,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 TbbedPane : Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
 display the concerned color whenever the specific tab is selected in the Pan.
-Solution -> ()
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program5/Screenshot%202025-05-20%20160308.png)
 
 
 CounrtriesCapital : Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
