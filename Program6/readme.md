@@ -1,7 +1,7 @@
-FactorialServlet : Build a servlet program to find the factorial of a number using HTML with step by step
+FactorialServlet(index.html) : Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.
 Solution ->  factorialServlet(java code)(https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20163106.png)
-           index.html (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20163115.png)
+            (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20163115.png)
 
 
 CookieServlet : Build a servlet program to create a cookie to get your name through text box and press submit
@@ -11,7 +11,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
             (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20163610.png)
 
 
-PrimeServlet : Build a servlet program to check the given number is prime number or not using HTML with step
+PrimeServlet(index2.html) : Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.
-Solution ->PrimeServlet (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20164630.png)
-           index2.html (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20164637.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20164630.png)
+            (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20164637.png)
