@@ -13,4 +13,5 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 PrimeServlet : Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.
-Solution -> ()
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20164630.png)
+            ()
