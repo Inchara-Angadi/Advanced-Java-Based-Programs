@@ -15,6 +15,6 @@ display the capital of the countries on console whenever the countries are selec
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program5/Screenshot%202025-05-20%20160626.pn)
             (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program5/Screenshot%202025-05-20%20160848.png)
 
-TabbedPaneCyan : Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
+CMYTabbedPane : Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan.
 Solution -> ()
