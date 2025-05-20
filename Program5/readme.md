@@ -17,4 +17,4 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 CMYTabbedPane : Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan.
-Solution -> ()
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program5/Screenshot%202025-05-20%20161247.png)
