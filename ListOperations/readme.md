@@ -15,7 +15,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 ColorRemoveDemo : Write a java program for getting different colors through ArrayList interface and remove the
 2nd element and color "Blue" from the ArrayList
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%202025-05-19%20234953.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOperations/Screenshot%202025-05-19%20234953.png)
 
 
 
