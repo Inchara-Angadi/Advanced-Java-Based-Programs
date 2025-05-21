@@ -1,3 +1,6 @@
+/*Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()*/
+
 package program;
 import java.util.Scanner;
 public class NumericChecker {
