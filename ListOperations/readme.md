@@ -55,7 +55,6 @@ DisplayElementsWithPosition : Write a Java program to display elements and their
 l_listobj.get(p) )
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOperations/Screenshot%202025-05-20%20001440.png)
 
-
 SwapElementsInLinkedList : Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
 Solution -> (https://github.com/Inchara-Angadi/Advanced-java-based-programs/blob/main/Program1/Screenshot%202025-05-20%20001611.png)
