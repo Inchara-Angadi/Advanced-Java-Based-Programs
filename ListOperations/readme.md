@@ -21,8 +21,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 ColorSort : Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%202025-05-19%20235759.png)
-
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOperations/Screenshot%202025-05-19%20235759.png)
 
 
 ColorListDemo : Write a java program for getting different colors through ArrayList interface and extract the
