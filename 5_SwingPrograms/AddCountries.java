@@ -1,3 +1,6 @@
+/*Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a*/
+
 package program;
 import javax.swing.*;
 import java.awt.*;
