@@ -10,4 +10,4 @@ Cookie Management(index.jsp, setCookie.jsp) : Construct a Cookie Management prog
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program7/Screenshot%202025-05-21%20213348.png)
-            ()
+            (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program7/Screenshot%202025-05-21%20213357.png)
