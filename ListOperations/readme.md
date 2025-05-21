@@ -3,7 +3,7 @@ and a LinkedList to perform the following operations with different functions di
 1. Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4.
 Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List
 size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%202025-05-19%20215035.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOpsDemo/Screenshot%202025-05-19%20215035.png)
 
   
 
