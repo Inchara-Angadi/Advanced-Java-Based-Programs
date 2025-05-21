@@ -47,7 +47,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 InsertAtEndExample : Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%202025-05-20%20001323.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOperations/Screenshot%202025-05-20%20001323.png)
 
 
 
