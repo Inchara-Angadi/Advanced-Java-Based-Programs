@@ -1,4 +1,4 @@
-Build a Session Management using JSP program set with one minute session expiry time to get
+Session Management(index3.html, second.jsp, welcome.jsp) : Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
 Check the expiry of the session after one minute.
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program7/Screenshot%202025-05-21%20211658.png)
