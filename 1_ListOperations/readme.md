@@ -3,7 +3,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
           
 
 ColorSearchDemo :
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-19%20234616.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/ColorSerachDemo.png)
 
 
 
