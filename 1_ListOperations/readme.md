@@ -6,40 +6,40 @@ ColorSearchDemo :
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/ColorSearchDemo.png)
 
 
-
 ColorRemoveDemo : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-19%20234953.png)
-
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/ColorRemoveDemo.png)
 
 
 ColorSort : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-19%20235759.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/ColorSort.png)
 
 
 ColorListDemo : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20000019.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/ColorListDemo.png)
 
 
 ColorListManager : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20000252.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/ColorListManager.png)
+
 
 LinkedListIteratorExample : 
-Solution ->(https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20000525.png)
+Solution ->(https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/LinkedListIteratorExample.png)
 
 
 
 ReverseLinkedList :
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20001120.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/ReverseLinkedList.png)
 
 
 
 InsertAtEndExample :
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20001323.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/InsertAtEndExample.png)
 
 
 
 DisplayElementsWithPosition : 
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20001440.png)
+
 
 SwapElementsInLinkedList :
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20001611.png)
