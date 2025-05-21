@@ -41,7 +41,7 @@ Solution ->(https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/
 
 ReverseLinkedList : Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%202025-05-20%20001120.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOperations/Screenshot%202025-05-20%20001120.png)
 
 
 
