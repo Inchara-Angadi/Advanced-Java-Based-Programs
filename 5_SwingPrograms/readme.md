@@ -10,5 +10,5 @@ CounrtriesCapital :
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20160626.png)
             (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20160848.png)
 
-CMYTabbedPane : 
+CMYTabbedPan : 
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20161247.png)
