@@ -9,7 +9,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 ColorSearchDemo : Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%202025-05-19%20234616.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOperations/Screenshot%202025-05-19%20234616.png)
 
 
 
