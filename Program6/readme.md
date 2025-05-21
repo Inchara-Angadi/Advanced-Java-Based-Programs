@@ -4,14 +4,3 @@ Solution ->  factorialServlet(java code)(https://github.com/Inchara-Angadi/Advan
             (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20163115.png)
 
 
-CookieServlet : Build a servlet program to create a cookie to get your name through text box and press submit
-button( through HTML) to display the message by greeting Welcome back your name ! , you have
-visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20163556.png)
-            (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20163610.png)
-
-
-PrimeServlet(index2.html) : Build a servlet program to check the given number is prime number or not using HTML with step
-by step procedure.
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20164630.png)
-            (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program6/Screenshot%202025-05-20%20164637.png)
