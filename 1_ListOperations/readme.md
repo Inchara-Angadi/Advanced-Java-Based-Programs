@@ -38,8 +38,8 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 
 DisplayElementsWithPosition : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20001440.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/DisplayElementsWithPosition.png)
 
 
 SwapElementsInLinkedList :
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/Screenshot%202025-05-20%20001611.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/1_ListOperations/SwapElementsInLinkedList.png)
