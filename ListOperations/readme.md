@@ -26,8 +26,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 ColorListDemo : Write a java program for getting different colors through ArrayList interface and extract the
 elements 1st and 2nd from the ArrayList object by using SubList()
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/Program1/Screenshot%202025-05-20%20000019.png)
-
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/ListOperations/Screenshot%202025-05-20%20000019.png)
 
 
 ColorListManager : Write a java program for getting different colors through ArrayList interface and delete nth
