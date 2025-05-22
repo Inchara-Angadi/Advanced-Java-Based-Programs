@@ -1,3 +1,8 @@
+<%--Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
+the table Emp of the database--%>
+
+
+
 <%@ page import="java.sql.*" %>
 <%
     String empnoStr = request.getParameter("empno");
