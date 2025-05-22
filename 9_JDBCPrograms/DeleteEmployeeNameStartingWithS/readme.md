@@ -1,1 +1,3 @@
+DeleteEmployeeNameStartingWithS :
+Solution : ()
 
