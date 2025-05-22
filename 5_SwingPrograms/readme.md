@@ -7,8 +7,7 @@ Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob
 
 
 CounrtriesCapital : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/CounrtriesCapital.png)
-
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/CountriesCapital.png)
 
 CMYTabbedPan : 
 Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/CMYTabbedPan.png)
