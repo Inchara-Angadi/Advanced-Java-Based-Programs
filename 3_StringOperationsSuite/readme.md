@@ -23,7 +23,7 @@ Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blo
 
 
 Capitalizewords :
-Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/3_StringOperationsSuite/WhitespaceRemover.png)
+Solution ->  (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/3_StringOperationsSuite/Capitalizewords.png)
 
 
 StringTruncator :
