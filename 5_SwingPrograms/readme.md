@@ -1,14 +1,14 @@
 AddCountries : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20155807.png)
-            (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20155843.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/AddCountries.png)
+
 
 TabbedPan : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20160308.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/TabbedPan.png)
 
 
 CounrtriesCapital : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20160626.png)
-            (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20160848.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/CounrtriesCapital.png)
+
 
 CMYTabbedPan : 
-Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/Screenshot%202025-05-20%20161247.png)
+Solution -> (https://github.com/Inchara-Angadi/Advanced-Java-Based-Programs/blob/main/5_SwingPrograms/CMYTabbedPan.png)
